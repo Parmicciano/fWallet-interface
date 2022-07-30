@@ -1,10 +1,12 @@
 {
-  "name": "f-wallet",
+  "name": "fantom-wallet",
   "version": "0.0.1",
   "keywords": [
     "ethereum",
     "fantom",
-    "wallet"
+    "wallet",
+"ftm",
+"fantom-foundation"
   ],
   "private": true,
   "scripts": {
